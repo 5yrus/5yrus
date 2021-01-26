@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/5yrus/About/main/b04.gif)
